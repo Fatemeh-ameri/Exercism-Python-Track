@@ -1,2 +1,3 @@
 # Exercism-Python-Track
-During my internship with Cs Internship, I should perform several tasks. One of them is completing exercises on [this](https://exercism.org/tracks/python/exercises) website.
+In this repository you find all of python practice that are exist [this](https://exercism.org/tracks/python/exercises) website.
+I would be happy if you check my code and put some costruction comment for me.
