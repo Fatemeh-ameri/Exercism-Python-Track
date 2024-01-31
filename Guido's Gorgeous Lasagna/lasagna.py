@@ -23,7 +23,6 @@ def bake_time_remaining(elapsed_bake_time):
     an argument and returns how many minutes the lasagna still needs to bake
     based on the `EXPECTED_BAKE_TIME`.
     """
-
     return EXPECTED_BAKE_TIME - elapsed_bake_time
 
 
