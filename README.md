@@ -1,6 +1,6 @@
 # Exercism Python Track
 
-This repository contains my solutions to selected exercises from the #Exercism Python track.
+This repository contains my solutions to selected exercises from the Exercism Python track.
 
 I use this repository as a structured way to revisit core programming concepts, strengthen problem-solving skills, and maintain coding consistency through short, focused challenges.
 
