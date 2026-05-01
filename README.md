@@ -1,9 +1,9 @@
 # Exercism Python Track
 
-This repository contains my solutions to exercises from the **Exercism Python track**.
+This repository contains my solutions to selected exercises from the **Exercism Python track.
 
-Exercism is a platform for practicing programming through small coding exercises and mentoring.
+I use this repository as a structured way to revisit core programming concepts, strengthen problem-solving skills, and maintain coding consistency through short, focused challenges.
 
-The goal of this repository is to improve my Python programming skills by solving different types of problems.
+While the exercises are relatively small in scope, they provide an opportunity to write clean, well-structured code and explore different approaches to common problems.
 
-⚠️ This repository is still a work in progress as I continue solving new exercises.
+This is an ongoing practice repository.
