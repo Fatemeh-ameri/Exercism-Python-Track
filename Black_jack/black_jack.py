@@ -100,6 +100,6 @@ def can_double_down(card_one, card_two):
     value1 = value_of_card(card_one)
     value2 = value_of_card(card_two)
     total = value1 + value2
-    if total in [9,10,11]:
+    if total in {9,10,11}:
         return True
     return False  
