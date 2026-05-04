@@ -27,15 +27,15 @@ def make_word_groups(vocab_words):
     if vocab_words[0] == 'en':
         separator = ' :: en'
         return separator.join(vocab_words)
-    elif vocab_words[0] == 'pre':
+    if vocab_words[0] == 'pre':
         separator = ' :: pre'
         return separator.join(vocab_words)
-    elif vocab_words[0] == 'auto':
+    if vocab_words[0] == 'auto':
         separator = ' :: auto'
         return separator.join(vocab_words)
-    else:
-        separator = ' :: inter'
-        return separator.join(vocab_words)
+    
+    separator = ' :: inter'
+    return separator.join(vocab_words)
 
 def remove_suffix_ness(word):
     """Remove the suffix from the word while keeping spelling in mind.
@@ -62,4 +62,4 @@ def adjective_to_verb(sentence, index):
 
     words = sentence.split()
     adjective = words[index].strip('.,!?')
-    return adjective + "en"
+    return adjective + 'en'
