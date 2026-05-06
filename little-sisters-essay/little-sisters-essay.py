@@ -39,4 +39,3 @@ def replace_word_choice(sentence, old_word, new_word):
     """
 
     return sentence.replace(old_word, new_word)
-
