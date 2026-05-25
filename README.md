@@ -2,8 +2,8 @@
 
 This repository contains my solutions to selected exercises from the Exercism Python track.
 
-I use this repository as a structured way to revisit core programming concepts, strengthen problem-solving skills, and maintain coding consistency through short, focused challenges.
+I use this repository to revisit core Python concepts, practice problem-solving, and keep a habit of writing clean and readable code.
 
-While the exercises are relatively small in scope, they provide an opportunity to write clean, well-structured code and explore different approaches to common problems.
+The exercises are small, but they are useful for practicing basic programming logic, data structures, and code organization.
 
 This is an ongoing practice repository.
